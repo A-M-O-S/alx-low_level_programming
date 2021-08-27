@@ -2,16 +2,16 @@
 #include <unistd.h>
 
 /**
- * main: Entry point
+ * main - Entry point
  * Description: prints combinations of numbers
- * return: Always (0) success
+ * Return: Always (0) success
  */
 
 int main(void)
 {
 	int i;
 
-	for (i= '0'; i <= '9'; i++)
+	for (i = '0'; i <= '9'; i++)
 	{
 		putchar(i);
 
@@ -23,7 +23,7 @@ int main(void)
 	}
 
 	putchar('\n');
-	return 0;
+	return (0);
 }
 
 
