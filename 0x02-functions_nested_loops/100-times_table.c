@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * prints_times_table - Prints a multiplication table up to param
  * @n: the number to be treated
