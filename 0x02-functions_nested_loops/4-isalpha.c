@@ -1,9 +1,9 @@
-#include <holberton.h>
+#include "main.h"
 
 /**
- * main - entry point
- * Description: checks the if alphabet
- * @c: the integer value it recieves
+ * _isalpha - Entry point
+ * @c: the integer value it receives
+ * Description: checks if alphabet
  * Return: 1 if true. 0 if false
  */
 
@@ -11,7 +11,7 @@ int _isalpha(int c)
 {
 	if (c >= 'a' && c <= 'z')
 	{
-		return (1);
+	return (1);
 	}
 	else if (c >= 'A' && c <= 'Z')
 	{
@@ -22,4 +22,3 @@ int _isalpha(int c)
 		return (0);
 	}
 }
-
