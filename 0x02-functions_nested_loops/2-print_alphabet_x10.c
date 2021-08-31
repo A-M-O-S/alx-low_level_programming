@@ -1,4 +1,5 @@
-#include <holberton.h>
+#include "main.h"
+
 /**
  * main - Entrey point
  * Description: make alphabet x10 times
