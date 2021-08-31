@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _abs - Entry point
@@ -22,4 +22,3 @@ int _abs(int n)
 		return (n);
 	}
 }
-
