@@ -1,14 +1,14 @@
-#include <holberton.h>
+#include "main.h"
+
 /**
- * main - Entrey point
- * Description: make alphabet x10 times
+ * print_alphabet_x10 - Make alphabet x10 times
+ *
  * Return: void
  */
-
 void print_alphabet_x10(void)
 {
 	char c;
-	int i;
+	int i = 0;
 
 	while (i <= 9)
 	{
@@ -18,7 +18,7 @@ void print_alphabet_x10(void)
 		}
 
 		_putchar('\n');
+
 		i++;
 	}
 }
-
