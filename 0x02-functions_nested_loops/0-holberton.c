@@ -6,12 +6,12 @@
  */
 int main(void)
 {
-char str[] = "Holberton\n";
+char stderr[] = "Holberton\n";
 int i = 0;
 
-while (str[i] != '\0')
+while (stderr[i] != '\0')
 	{
-	char c = str[i];
+	char c = stderr[i];
 
 	_putchar(c);
 	i++;
