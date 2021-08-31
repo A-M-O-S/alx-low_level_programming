@@ -12,7 +12,6 @@ int i = 0;
 while (str[i] != '\0')
 	{
 	char c = str[i];
-	_putchar('Holberton\n');
 
 	_putchar(c);
 	i++;
