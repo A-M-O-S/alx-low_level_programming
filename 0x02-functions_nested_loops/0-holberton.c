@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * main - Entry point
  * Description: prints 'Holberton \n'
@@ -16,6 +17,5 @@ while (str[i] != '\0')
 	_putchar(c);
 	i++;
 	}
-	printf("Holberton\n");
 return (0);
 }
