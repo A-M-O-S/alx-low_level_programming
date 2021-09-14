@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /**
- * File: main.h
+ * File: holberton.h
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x07-recursion directory.
  */
@@ -17,3 +17,5 @@ int _sqrt_recursion(int n);
 int is_prime_number(int n);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
+
+#endif
