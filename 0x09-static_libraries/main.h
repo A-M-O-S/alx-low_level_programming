@@ -5,7 +5,7 @@
  * File: main.h
  * Auth: Amos
  * Description: Header files containing the prototypes of all functions
- * 	 included in that static library libmy.a
+ * included in that static library libmy.a
  * Return: all files
  */
 
