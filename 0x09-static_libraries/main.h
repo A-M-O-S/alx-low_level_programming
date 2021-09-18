@@ -3,6 +3,8 @@
 
 /**
  * File: main.h
+ * Auth: Amos
+ * Description: Header files containing the prototypes of all functions included in that static library libmy.a
  */
 
 int _putchar(char C);
